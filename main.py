@@ -56,18 +56,17 @@ def query(cursor, lang):
 
     # Last page exception
     except KeyError:
-        print("Ultima Pagina")
-        print(f"total streams capturats {len(llista_dataframes)}")
-
-        # Això fa que la funció salti a la següent tasca.
+      
+        print("Last Page")
+        print(f"Total Captured Streams {len(llista_dataframes)}")
         pass
 
 for lang in langs:
   
-    llista_dataframes.clear() #Clean All lists in each lang loop!
+    llista_dataframes.clear() # Clean All lists in each lang loop!
     query(cursor_dummy, lang)
 
     # Data export for each lang
     
     final_dataframe = pd.concat(llista_dataframes)
-    final_dataframe.to_csv(f"export_{lang}.csv", index=False)
+    final_dataframe.to_csv(f"twitch-live-export_{lang}.csv", index=False)
