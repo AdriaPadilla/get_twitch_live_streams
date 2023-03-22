@@ -6,6 +6,6 @@ This is a clean, fast and simple script to get all live streams on Twitch and sa
 - This script uses twitchAPI V2.5.7.1. You must install this specific version of the library:
 ```bash
 pip install twitchAPI==2.5.7.1
-``
+```
 - TwitchAPI Docs V2.5.7.1: [Read The Docs](https://pytwitchapi.readthedocs.io/en/v2.5.7/modules/twitchAPI.twitch.html)
 - Twitch Official API Docs: [Read The Docs](https://dev.twitch.tv/docs/)
