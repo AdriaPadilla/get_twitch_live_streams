@@ -2,7 +2,8 @@
 This is a clean, fast and simple script to get all live streams on Twitch and save data to a .csv file. You'll need a "client ID" and "client secret token" for API auth. Please, visit [Twitch Developers page](https://dev.twitch.tv/). 
 
 **Info**
-You can define up to 100 languages to get all streams on Twitch. See list of langs in line 12.
+
+You can define up to 100 languages to get all streams on Twitch within this language. See list of langs in line 12.
 
 
 **Important**
