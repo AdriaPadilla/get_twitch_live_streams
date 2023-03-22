@@ -5,6 +5,8 @@ This is a clean, fast and simple script to get all live streams on Twitch and sa
 
 You can define up to 100 languages to get all streams on Twitch within this language. See list of langs in line 12.
 
+**The Script**
+See [main.py](https://github.com/AdriaPadilla/get_twitch_live_streams/blob/main/main.py)
 
 **Important**
 - To avoid overflow Twich API rate limits, don't modify time.sleep(0.12). 
