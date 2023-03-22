@@ -19,3 +19,9 @@ pip install twitchAPI==2.5.7.1
 **Docs**
 - TwitchAPI Docs V2.5.7.1: [get_streams()](https://pytwitchapi.readthedocs.io/en/v2.5.7/modules/twitchAPI.twitch.html#twitchAPI.twitch.Twitch.get_streams)
 - Twitch Official API Docs: [Get Streams](https://dev.twitch.tv/docs/api/reference/#get-streams)
+
+**Academic paper**
+
+[Audiences and streamers on Twitch: consumption and production patterns in the Spanish-speaking world](https://www.cac.cat/sites/default/files/2022-11/Q48_Padilla_Navarro_EN.pdf)
+
+Citation (APA): Padilla Molina, A. & Navarro Bosch, C. (2022). "Audiences and streamers on Twitch: consumption and production patterns". Quaderns del CAC 25(48),67-77. https://ddd.uab.cat/record/268821
