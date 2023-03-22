@@ -24,4 +24,4 @@ pip install twitchAPI==2.5.7.1
 
 [Audiences and streamers on Twitch: consumption and production patterns in the Spanish-speaking world](https://www.cac.cat/sites/default/files/2022-11/Q48_Padilla_Navarro_EN.pdf)
 
-Citation (APA): Padilla Molina, A. & Navarro Bosch, C. (2022). "Audiences and streamers on Twitch: consumption and production patterns". Quaderns del CAC 25(48),67-77. https://ddd.uab.cat/record/268821
+Citation (APA): Padilla Molina, A. & Navarro Bosch, C. (2022). "Audiences and streamers on Twitch: consumption and production patterns". Quaderns del CAC 25(48), p.67-77. https://ddd.uab.cat/record/268821
