@@ -1,5 +1,9 @@
-# Get all live streams for a language
+# Get all TWITCH live streams for a language
 This is a clean, fast and simple script to get all live streams on Twitch and save data to a .csv file. You'll need a "client ID" and "client secret token" for API auth. Please, visit [Twitch Developers page](https://dev.twitch.tv/). 
+
+**Info**
+You can define up to 100 languages to get all streams on Twitch. See list of langs in line 12.
+
 
 **Important**
 - To avoid overflow Twich API rate limits, don't modify time.sleep(0.12). 
@@ -9,5 +13,5 @@ pip install twitchAPI==2.5.7.1
 ```
 
 **Docs**
-- TwitchAPI Docs V2.5.7.1: [Read The Docs](https://pytwitchapi.readthedocs.io/en/v2.5.7/modules/twitchAPI.twitch.html)
-- Twitch Official API Docs: [Read The Docs](https://dev.twitch.tv/docs/)
+- TwitchAPI Docs V2.5.7.1: [get_streams()](https://pytwitchapi.readthedocs.io/en/v2.5.7/modules/twitchAPI.twitch.html#twitchAPI.twitch.Twitch.get_streams)
+- Twitch Official API Docs: [Get Streams](https://dev.twitch.tv/docs/api/reference/#get-streams)
