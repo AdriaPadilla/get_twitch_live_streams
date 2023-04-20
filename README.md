@@ -20,6 +20,10 @@ pip install twitchAPI==2.5.7.1
 - TwitchAPI Docs V2.5.7.1: [get_streams()](https://pytwitchapi.readthedocs.io/en/v2.5.7/modules/twitchAPI.twitch.html#twitchAPI.twitch.Twitch.get_streams)
 - Twitch Official API Docs: [Get Streams](https://dev.twitch.tv/docs/api/reference/#get-streams)
 
+**Software citation**
+Padilla Molina, Adrián (2022). "Get all Twitch Streams" [Software]. Available at: https://github.com/AdriaPadilla/get_twitch_live_streams/
+
+
 **Academic paper** [ENG]
 
 [Audiences and streamers on Twitch: consumption and production patterns in the Spanish-speaking world](https://www.cac.cat/sites/default/files/2022-11/Q48_Padilla_Navarro_EN.pdf)
